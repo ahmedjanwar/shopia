@@ -57,6 +57,7 @@ function Success({ products }: Props) {
               src="https://rb.gy/vsvv2o"
               layout="fill"
               objectFit="contain"
+              alt="img5"
             />
           </div>
         </Link>
@@ -70,6 +71,7 @@ function Success({ products }: Props) {
                 src="https://rb.gy/xv63ef"
                 layout="fill"
                 objectFit="contain"
+                alt="img6"
               />
             </div>
           </Link>
@@ -165,6 +167,7 @@ function Success({ products }: Props) {
                             src="https://rb.gy/xv63ef"
                             layout="fill"
                             objectFit="contain"
+                            alt="img7"
                           />
                         </div>
                         <div className="absolute -right-2 -top-2 flex h-5 w-5 items-center justify-center rounded-full bg-[gray] text-xs">

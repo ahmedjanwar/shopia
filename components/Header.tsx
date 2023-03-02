@@ -23,6 +23,7 @@ function Header() {
               src="https://rb.gy/xv63ef"
               layout="fill"
               objectFit="contain"
+              alt="img2"
             />
           </div>
         </Link>
